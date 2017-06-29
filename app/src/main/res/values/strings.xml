@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gmail</string>
+
+    <string name="logout">Logout</string>
+    <string name="title_activity_email">EmailActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="inbox">Inbox</string>
+    <string name="subject">Subject:</string>
+    <string name="send_email">send_email</string>
+
+</resources>
